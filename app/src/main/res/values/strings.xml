@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">GoogleMapTestApp</string>
     <string name="google_maps_api_key">AIzaSyBk0vvO-IEh4D0D1MNOr6kKppvF7yl6c5k</string>
-    <string-array name="hello_world"><item>Hello World</item></string-array>
+    <string-array name="hello_world">
+        <item>Hello World</item>
+    </string-array>
 </resources>
