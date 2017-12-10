@@ -1,3 +1,12 @@
+/**
+ * MyListFragment
+ * Created by: Blake Sawyer
+ *
+ * Purpose: Custom List Fragment created from the hello_world array resource
+ *
+ * Last updated: 12/10/2017
+ **/
+
 package com.example.blake.googlemaptestapp;
 
 import android.os.Bundle;

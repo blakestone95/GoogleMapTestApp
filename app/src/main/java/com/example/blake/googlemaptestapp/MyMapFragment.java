@@ -1,3 +1,12 @@
+/**
+ * MainActivity
+ * Created by: Blake Sawyer
+ *
+ * Purpose: Google Maps fragment; creates map and drops a marker on Sydney, Australia
+ *
+ * Last updated: 12/10/2017
+ **/
+
 package com.example.blake.googlemaptestapp;
 
 import android.os.Bundle;

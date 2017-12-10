@@ -1,3 +1,12 @@
+/**
+ * MainActivity
+ * Created by: Blake Sawyer
+ *
+ * Purpose: Put a list fragment and a Google Maps map fragment to display on the same page
+ *
+ * Last updated: 12/10/2017
+ **/
+
 package com.example.blake.googlemaptestapp;
 
 import android.support.v4.app.FragmentManager;
